@@ -50,8 +50,8 @@ By default, mwlinkscrape will work as follows:
 Command-line options:
 
 <pre>
-$ python wikiscrape.py -h
-usage: wikiscrape.py [-h] [--default-wikis] [--use-wikis WIKIS]
+$ python mwlinkscrape.py -h
+usage: mwlinkscrape.py [-h] [--default-wikis] [--use-wikis WIKIS]
                      [--output-format FMT] [--verbose]
                      SITE [SITE ...]
 
