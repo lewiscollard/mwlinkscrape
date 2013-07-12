@@ -74,8 +74,8 @@ optional arguments:
                        list of URLs, one per line, the default) or "csv"
                        (comma-separated value files, with the first column
                        being the linked URL, the second being the URL of the
-                       wiki article from which it is linked). Default is
-                       "txt".
+                       wiki article from which it is linked, and the third
+                       being the title of the article). Default is "txt".
   --verbose            Print uninteresting chatter to stderr for debugging
                        purposes.
 </pre>
