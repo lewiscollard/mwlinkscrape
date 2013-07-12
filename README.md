@@ -32,11 +32,11 @@ Usage
 
 Basic usage goes like this:
 
-	mwlinkscrape.py www.dyingsite.com > sitelist.txt
+	python mwlinkscrape.py www.dyingsite.com > sitelist.txt
 
 You may also find stuff on subdomains:
  
-	mwlinkscrape.py "*.dyingsite.com" > sitelist.txt
+	python mwlinkscrape.py "*.dyingsite.com" > sitelist.txt
 
 By default, mwlinkscrape will work as follows:
 
